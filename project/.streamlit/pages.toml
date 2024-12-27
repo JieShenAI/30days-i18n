@@ -1,0 +1,9 @@
+[[pages]]
+path = "upload_file.py"
+name = "Home"
+icon = "🏠"
+
+[[pages]]
+path = "show_neo4j.py"
+name = "neo4j"
+icon = ":books:"
